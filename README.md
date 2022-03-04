@@ -4,7 +4,7 @@
 
 ![](https://github.com/abhisheks008/ML-Crate/blob/main/Assets/ml.png)
 
-********************************************************
+*******************************************************
 ## 🔴 Welcome contributors!
 As we all know the BGMI Loot Crate comes with so many resources for the gamers, this ML Crate will be the hub of various ML projects which will be the resources for the ML enthusiasts!
 
@@ -24,11 +24,16 @@ This repository consists of various machine learning projects, and all of the pr
 ## ❄️Open Source Programs!
 <table>
 <tr>
- <td>
-<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a>
+ <td align="center">
+<a href="https://github.com/abhisheks008"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" width=150px height=150px /><br /><sub><b>Script Winter of Code 2021</b></sub></a><br /><sub><h1>PR Count: 4️⃣:nine:</h1></sub>
+ </td>
+  <td align="center">
+<a href="https://jwoc.tech/"><img src="https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" width=150px height=150px /><br /><sub><b>JGEC Winter of Code 2022</b></sub></a><br /><sub><h1>PR Count: :three::one:</h1></a>
  </td>
 </tr>
 </table>
+
+
 
 ***********************************************************
 | Serial No. | Project Name | Goal of the Project | Link |
@@ -48,21 +53,94 @@ This repository consists of various machine learning projects, and all of the pr
 | 13| Jeopardy Bot | We Build a question answering system and implement in a bot that can play the game of jeopardy with users. The bot can be used on any platform like Telegram, discord, reddit, etc. | [Click Here](/Jeopardy%20bot)|
 | 14| Breast Cancer Wisconsin (Diagnostic) |To Determine which features of data (measurements) are most important for diagnosing breast cancer and find out if breast cancer occurs or not. | [Click Here](/Breast%20Cancer%20Wisconsin%20(Diagnostic))|
 | 15| Restaurant Review Classification |To build a model which can detect whether a restaurant’s review is fake or real. With text processing and additional features in dataset you can build a SVM model that can classify reviews as fake or real. | [Click Here](/Restaurant%20Review%20Classification)|
+| 16| Caption generation from images |To detect objects from the image and then generate captions for them. LSTM (Long short term memory) network is responsible for generating sentences in English and CNN is used to extract features from image. To build a caption generator we have to combine these two models.| [Click Here](/Caption%20Generation%20from%20Images)|
+| 17| Heart Disease Prediction |Use this dataset to predict which patients are most likely to suffer from a heart disease in the near future using the features given.| [Click Here](/Heart%20Disease%20Prediction)|
+| 18| Years of experience and Salary dataset |The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type.| [Click Here](/Years%20of%20experience%20and%20Salary%20dataset)|
+| 19| Banknote Dataset|To predict whether a given banknote is authentic given a number of measures taken from a photograph.| [Click Here](/Banknote%20Dataset)|
+| 20| GTSRB (German traffic sign recognition benchmark) Dataset| To build a model using a deep learning framework that classifies traffic signs and also recognises the bounding box of signs. The traffic sign classification is also useful in autonomous vehicles for identifying signs and then take appropriate actions.| [Click Here](/GTSRB%20(German%20traffic%20sign%20recognition%20benchmark)%20Dataset)|
+ | 21| Students Performance in Exams| To understand the influence of the parents background, test preparation etc on students performance. Perform EDA.| [Click Here](/Student%20Performance%20in%20Exam)|
+ | 22| Swedish Auto Insurance| To predict the total payment for all claims in thousands of Swedish Kronor, given the total number of claims. and perform Eda.| [Click Here](/Swedish%20Auto%20Insurance)|
+ | 23| Avocado Prices| The goal is to predict the average price which is continuous in nature of the different type of avocado and using the region that in which region they are lying.| [Click Here](/Avocado%20Prices)|
+ | 24|  IPL Winning Match Predictor| The goal is to predict the winning Team made by a different player with different bowlers, batsmen, and captains. Will be finalizing the best method to be used on behalf of accuracy. Predicting some outcomes of upcoming matches. | [Click Here](/IPL%20Winning%20Match%20Prediction)|
+ | 25|  Uber Analysis| To analyze the data of the customer rides and visualize the data to find insights that can help improve business. Data analysis and visualization is an important part of data science. They are used to gather insights from the data and with visualization you can get quick information from the data. | [Click Here](/Uber%20Pickup%20Analysis)|
+  | 26| Crypto Currency Price Prediction| Buying and selling result in a change in the price of any cryptocurrency, but buying and selling trends depend on many factors. Using machine learning for cryptocurrency price prediction can only work in situations where prices change due to historical prices that people see before buying and selling their cryptocurrency. So we need to find the price relation here.| [Click Here](/Crypto%20Currency%20Price%20Prediction)|
+  | 27| House Price Prediction| The goal is to predict Predict the housing prices of a new house using linear regression. Linear regression is used to predict values of unknown input when the data has some linear relationship between input and output variables.| [Click Here](/House-Price-Prediction)|
+  | 28| Vehicle Insurance Claim Fraud Detection|  Vehicle insurance fraud involves conspiring to make false or exaggerated claims involving property damage or personal injuries following an accident so, It will Detect fraud claims and will help Insurance Firms to verify them properly again.| [Click Here](/Vehicle%20Insurance%20Claim%20Fraud%20Detection)|
+   | 29| Mall Customers Segmentation|  To classify different customers. | [Click Here](/Mall%20Customers%20Segmentation)|
+   | 30|Body Fat Prediction| Create a ML model, for predicting the body fat. | [Click Here](/Body%20Fat%20Prediction)|
+   |31|Big Mart Sales Prediction| Create a Prediction Model, for the sales prediction of Big Mart| [Click Here](/Big%20Mart%20Sales%20Prediction)|
+   |32|Air Quality Prediction|Prediction model to predict the air quality| [Click Here](/Air%20Quality%20Prediction) |
+   |33|Stress Detection|Detect the stress among different people| [Click Here](/Stress%20Detection) |
+   |34|Bitcoin Price Prediction|Predicting the price of Bitcoin using a ML approach| [Click Here](/Bitcoin%20Price%20Prediction)|
+   |35| UK Favourite Chocolate Analysis| Anlyze the dataset which contains different aspects of chocolates of UK | [Click Here](/UK%20Favourite%20Chocolate%20Analysis)|
+   |36|Advertisement Click Prediction| Predict the clicking on the advertisement| [Click Here](/Advertisement%20Click%20Prediction) |
+   |37|FLICKR8k Dataset Analysis (MS COCO) | Analyze the dataset of MS COCO and provide the visualization out of it|[Click Here](/FLICKR8k%20Dataset%20Analysis%20(MS%20COCO))|
+   |38|US Household Income Distribution Analysis|Analyze different aspects of US household from the given dataset and find out the pattern among them.|[Click Here](/US%20Household%20Income%20Distribution%20Analysis)|
+   |39|Engineering Placements Prediction|Predict the placements of the engineering students after being graduated from any engineering college/university|[Click Here](/Engineering%20Placements%20Prediction)|
+   |40|Digit Recognizer Project|Recognize the digits using a Machine Learning Model, where the digits are in the handwritten form.| [Click Here](/Digit%20Recognizer%20Project)|
+   |41|Concrete Strength Calculation|Create a ML model which will calculate the strength of concrete and provides the outcome|[Click Here](/Concrete%20Strength%20Calculation)|
+   |42|Ethereum Fraud Detection|Create a ML model which detect the real/fake eth while purchasing/selling it.|[Click Here](/Ethereum%20Fraud%20Detection)|
+   |43|Indian School Education Statistics|Visualize and analyze the condition of the Indian school education system with the help of data analysis|[Click Here](/Indian%20School%20Education%20Statistics)|
+   |44|Real/Fake Job Posting Prediction|Create a ML model which will predict the real/fake job postings in different websites|[Click Here](/Real%20Fake%20Job%20Posting%20Prediction)|
+   |45|Eye Disease Prediction|Create a prediction model which will predict the affected eye from the given images|[Click Here](/Eye%20Disease%20Prediction)|
+   |46|Birds Image Classification|Classify the images of the birds using deep learning methods|[Click Here](/Birds%20Images%20Classification)|
+   |47|Identify the images of Cats and dogs|Identifying the images of cats and dogs.Algorithm used for this purpose was CNN.|[Click Here](/Identify%20the%20images%20of%20Cats%20and%20dogs)|
+   |48|IMDB Review Analysis|Perform Sentiment analysis on the data to see the statistics of what type of movie do users like. Sentiment analysis is the process of analysing the textual data and identifying the emotion of the user, Positive or Negative.|[Click Here](/IMDB%20Review%20Analysis)|
+   |49|Enron Email Dataset|Classify the emails from the given dataset and visualize the contents of the email|[Click Here](/Enron%20Email%20Dataset)|
+   |50|Netflix Movies and Shows Analysis|Analyze the shows on the Netflix platform and find out the visualization of the data in different aspects.|[Click Here](/Netflix%20Movies%20and%20TV%20Shows)|
+   |51|Bangladesh Premier League Analysis|Analyze different aspects of Bangladesh Premier League for the season 2021-22.|[Click Here](/Bangladesh%20Premier%20League%20Analysis)|
+   |52|Top Programming language in GitHub|Identify the top programming language in GitHub using data analysis|[Click Here](/Top%20Programming%20language%20in%20GitHub)|
+   |53|Entrepreneurial Capacity in Student|Create a ML model which will be identifying the entrepreneurial capacity in student.|[Click Here](/Entrepreneurial%20Capacity%20in%20Student)|
+   |54|NYPD Shooting Data Analysis|Analyze and visualize the shooting data registered by NYPD.|[Click Here](/NYPD%20Shooting%20Data%20Anaysis)|
+   |55|Sonar Dataset Analysis|Analyze the Sonar dataset in different perspectives and visualize different patterns among them.|[Click Here](/Sonar%20Dataset)|
+   |56|Resume Classification|Classify the resumes and identify the useful ones for the company.|[Click Here](/Resume%20Classification)|
+   |57|Legends of League Analysis|Analyze the aspects of League of Legends.|[Click Here](/League%20Of%20Legends%20Analysis)|
+   |58|Hand Pose Detection|Detect the hand poses from the camera input.|[Click Here](/Hand%20Pose%20Detection)|
+   |59|Classify the Emoji|Classify the emoji using deep learning techniques.|[Click Here](/Classify%20the%20emoji)|
+   |60|Rihanna Lyrics Analysis|Analyze the contents of the albums of Rihanna based on the lyrics of the songs produced.|[Click Here](/Rihanna%20Lyrics%20Analysis)|
+   |61|Face Mask Detection|Detect the mask on the faces of the people with an ML approach.|[Click Here](/Face%20Mask%20Detection)|
+   |62|Billboard "The Hot 100" Songs|Analyze different aspects of the song genre and identify different features among them.|[Click Here](/Billboard%20"The%20Hot%20100"%20Songs)|
+   |63|Vegetable Classification and Recognition|Classify the images of the vegetables and recognize the images using machine learning models.|[Click Here](/Vegetable%20Classification%20and%20Recognition)|
+   |64|Brain Tumor Detection|Detect and identify the brain tumors images from the dataset provided using a ML approach.|[Click Here](/Brain%20Tumor%20Detection)|
+   |65|Quora Insincere Questions Classification Analysis & Prediction|Identify the miss-informations in the website of Quora and classify them using a ML approach.|[Click Here](/Quora%20Insincere%20Questions%20Classification%20Analysis%20%26%20Prediction)|
+   |66| Amazon Alexa Reviews | Analyse the reviews of the various products of the Amazon website.|[Click Here](/Amazon%20Alexa%20Reviews)|
+   |67|Body Parts Classification|Classify different body parts using a ML approach.|[Click Here](/Body%20Parts%20Recognition)|
+   |68|Women's E-commerce Clothings Reviews|Analyse the reviews of the women's e-commerce clothings in different platforms.|[Click Here](/Womens%20E-Commerce%20Clothing%20Review)|
+   |69|FIFA 19 Dataset Analysis|Analyze the dataset of the FIFA 19 football dataset and visualize the different factors of it.|[Click Here](/FIFA%2019%20Dataset%20Analysis)|
+   |70|Pneumonia Disease Prediction|Create a prediction model which will predict the disease from the user input.|[Click Here](/Pneumonia%20Disease%20Prediction)|
+   |71|Data Analytics Salary Prediction|Create a prediction model which will predict the salary of the Data Analytics and visualize them.|[Click Here](/Data%20Analytics%20Salary%20Prediction)|
+   |72|Udacity Course Analysis|Analyze different aspects of the Udacity courses depending on various situations.|[Click Here](/Udacity%20Courses%20Analysis)|
+   |73|Rice Type Classification|Classify the types of the rice using a ML approach.|[Click Here](/Rice%20type%20classification)|
+   |74|Named Entity Recognition (NER) Corpus | Analyze and create a model using machine learning approach for NER dataset.|[Click Here](/Named%20Entity%20Recognition%20(NER)%20Corpus%20-%20Copy)|
+   |75|Lumpy Skin Disease Prediction|Predict the lumpy skin disease using machine learning approach.|[Click Here](/Lumpy%20Skin%20Disease%20Prediction)|
+   |76|Amazon Books Analysis|Analyze the books of the e-commerce platform Amazon using a ML approach.|[Click Here](/Amazon%20Books%20Analysis)|
+   |77|Pets Images Classification|Classify the images of different pets and then create a ML model based on these.|[Click Here](/Pets%20Images%20Classification)|
+   |78|Number Plate Prediction|An OpenCV approach for predicting the correct number plate among the duplicate ones.|[Click Here](/Number%20Plate%20Prediction)|
+   |79|GATE Examination Analysis|A machine learning approach for classification of different aspects of GATE examinations.|[Click Here](/GATE%20Examination%20Analysis)|
+   |80|Crime Analysis of India|Analyze different aspects of India regarding the crime using ML approach.|[Click Here](/Crime%20Analysis%20of%20India)|
+   
+ 
+*************************************************************
 
+## 📊 Points Category (JWOC 2022)
+| Level of Issues | Points Allocated (Phase 1) | Points Allocated (Phase 2) | 
+| :-: | :-: | :-: |
+| Easy | **1** Point | **2** Points |
+| Medium | **3** Points | **4** Points |
+| Hard | **5** Points | **8** Points |
+
+
+*************************************************************
+## Leaderboard 📊
+
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>SWOC Leaderboard 2.0</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhisheks008/ML-Crate/blob/main/.github/jwoc_leaderboard.md"><img src="https://cdn-icons-png.flaticon.com/512/1986/1986941.png" width="100px;" alt=""/><br /><sub><b>JWOC Leaderboard 2022</b></sub></a></td>
+  </tr>
   
-*************************************************************
-## 📊 Points Category
-| Level of Issues | Points Allocated |
-| - | - |
-| Beginner | 10 Points 🔰|
-| Easy | 20 Points 🌱|
-| Medium | 30 Points 🌕|
-| Hard | 40 Points 🔥 |
+</table>
 
-
-*************************************************************
-
-## Checkout your Leaderboard here, [SWOC 2.0 Leaderboard for ML-Crate](https://github.com/abhisheks008/ML-Crate/blob/main/.github/swoc_leaderboard.md)
 ****************************************************************
 <h2>✨Top Contributors</h2>   
 
@@ -91,17 +169,6 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
   </tr>
 </table>
 
-<h2> ⚔️ Mentors </h2>
-<table>
-  <tr>
-    <td align='center'><a href='https://github.com/vaibhavgupta2499'><img src='https://avatars.githubusercontent.com/u/51874705?v=4' width='80px;' alt=''/><br/><sub><b>Vaibhab Gupta</b></sub></a></td>
-    <td align='center'><a href='https://github.com/ASLManasa'><img src='https://avatars.githubusercontent.com/u/72789934?v=4' width='80px;' alt=''/><br/><sub><b>A.S.L.Manasa</b></sub></a></td>
-    <td align='center'><a href='https://github.com/hpnightowl'><img src='https://avatars.githubusercontent.com/u/48650798?v=4' width='80px;' alt=''/><br/><sub><b>Harsh Pal</b></sub></a></td>
-    <td align='center'><a href='https://github.com/neelshah2409'><img src='https://avatars.githubusercontent.com/u/71593494?v=4' width='80px;' alt=''/><br/><sub><b>Neel Shah</b></sub></a></td>
-    <td align='center'><a href='https://github.com/rohansharma4050'><img src='https://avatars.githubusercontent.com/u/69635604?v=4' width='80px;' alt=''/><br/><sub><b>Rohan Sharma</b></sub></a></td>
-    <td align='center'><a href='https://github.com/shreyapy'><img src='https://avatars.githubusercontent.com/u/32763445?v=4' width='80px;' alt=''/><br/><sub><b>Shreya Pandey</b></sub></a></td>
-    </tr>
-  </table>
 
 **************************************************************
 <h2>⭐Give this Project a Star</h2>
@@ -119,7 +186,7 @@ If you want to contact me, you can reach me through social handles.
 <a href="https://twitter.com/Abhishe08346491"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
-© 2021 Abhishek Sharma
+© 2022 Abhishek Sharma
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
